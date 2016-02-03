@@ -1,0 +1,28 @@
+{
+  "name": "auditbuilder",
+  "version": "1.0.0",
+  "description": "auditing data to spreadsheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sara",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "csv": "^0.4.6",
+    "lodash": "^4.0.1",
+    "natural": "^0.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarapple"
+  },
+  "keywords": [
+    "audit",
+    "csv",
+    "data",
+    "comparison"
+  ]
+}
